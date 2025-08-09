@@ -95,16 +95,6 @@ curl -X POST http://localhost:8888/translate \
 
 ---
 
-## 📁 File Structure
-
-```
-.
-├── translation-tool.py    # Main Flask application
-└── README.md              # Project documentation
-```
-
----
-
 ## ⚠️ Notes
 
 - This app uses the `googletrans` library, which relies on unofficial Google Translate APIs. For production environments, consider using official APIs like Google Cloud Translation or Microsoft Azure Translator.
