@@ -102,6 +102,3 @@ curl -X POST http://localhost:8888/translate \
 
 ---
 
-## 📬 Contact
-
-If you have any questions or need further improvements, feel free to reach out.
